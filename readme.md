@@ -10,3 +10,4 @@ Trabajaremos este sitio con el siguiente contenido:
 - Estudios realizados
 - Afición y hobbiel
 - Fostos de lugares que haz visitado
+- agregar datos de contacto
