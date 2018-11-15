@@ -11,6 +11,23 @@ console.log(100+500);
 //comparar los siguientes numeros 800y 500
 console.log(800<500);
 
+//imprime tres nombres de Paises
+console.log("Perú,Brasil,Bolivia,Uruguai,");
+
+//imprimir mensaje de error
+console.error("este errror es de prueba... no te asustes");
+
+//imprimir mensaje de advertecia
+console.warn("Cuidado te estoy vigilando");
+//imprimir mensaje de imformación
+console.info("ESte es un aviso de JavaSript")
+//multiplicar 3 numeros: 10 x 25 x105
+console.log(10*25*105);
+
+
+
+
+
 
 
 
